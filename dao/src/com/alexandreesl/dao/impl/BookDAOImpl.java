@@ -22,7 +22,7 @@ public class BookDAOImpl implements IBookDAO {
     public Book find(Long id) {
 
         Book book = new Book();
-        book.setId(1l);
+        book.setId(id);
         book.setName("Elasticsearch: Consuming real-time data with ELK");
         book.setAuthor("Alexandre Eleutério Santos Lourenço");
 

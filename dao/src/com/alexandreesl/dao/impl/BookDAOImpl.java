@@ -1,6 +1,6 @@
 package com.alexandreesl.dao.impl;
 
-import com.alexandreesl.dao.IBookDAO;
+import com.alexandreesl.dao.interfaces.IBookDAO;
 import com.alexandreesl.model.Book;
 
 public class BookDAOImpl implements IBookDAO {

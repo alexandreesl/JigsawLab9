@@ -1,4 +1,4 @@
-package com.alexandreesl.dao;
+package com.alexandreesl.dao.interfaces;
 
 import com.alexandreesl.dao.impl.BookDAOImpl;
 
